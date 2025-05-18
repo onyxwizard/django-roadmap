@@ -3,15 +3,15 @@
 
 
 ## 📚 Table of Contents  
-1. [🎯 Phase 1: Python Fundamentals](#phase-1-python-fundamentals)  
-2. [🛠️ Phase 2: Django Basics & Full-Stack Foundations](#phase-2-django-basics--full-stack-foundations)  
-3. [🌐 Phase 3: Intermediate Django & APIs](#phase-3-intermediate-django--apis)  
-4. [💸 Phase 4: Full-Stack E-Commerce](#phase-4-full-stack-e-commerce)  
-5. [⚡ Phase 5: Real-Time Features & DevOps](#phase-5-real-time-features--devops)  
-6. [🔌 Phase 6: REST API Mastery & Microservices](#phase-6-rest-api-mastery--microservices)  
-7. [🎓 Phase 7: Final Full-Stack Megaproject](#phase-7-final-full-stack-megaproject)  
-8. [🔧 Key Ancillary Skills](#key-ancillary-skills)  
-9. [📚 Resources & Tools](#resources--tools)  
+1. [🎯 Phase 1: Python Fundamentals](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-phase-1-python-fundamentals)  
+2. [🛠️ Phase 2: Django Basics & Full-Stack Foundations](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#%EF%B8%8F-phase-2-django-basics--full-stack-foundations)  
+3. [🌐 Phase 3: Intermediate Django & APIs](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-project-3-blog-platform)  
+4. [💸 Phase 4: Full-Stack E-Commerce](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-phase-4-full-stack-e-commerce)  
+5. [⚡ Phase 5: Real-Time Features & DevOps](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-phase-5-real-time-features--devops)  
+6. [🔌 Phase 6: REST API Mastery & Microservices](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-phase-6-rest-api-mastery--microservices)  
+7. [🎓 Phase 7: Final Full-Stack Megaproject](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-phase-7-final-full-stack-megaproject)  
+8. [🔧 Key Ancillary Skills](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-key-ancillary-skills)  
+9. [📚 Resources & Tools](https://github.com/onyxwizard/django-roadmap/tree/main?tab=readme-ov-file#-resources--tools)  
 
 
 
